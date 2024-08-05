@@ -1,5 +1,7 @@
 import socket
 
+#Não utilizar
+
 MEU_IP = '192.168.196.238'
 MINHA_PORTA = 12345
 
